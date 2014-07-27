@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'bb10cli'
+
+Bb10Cli::Cli::App.start(ARGV)
